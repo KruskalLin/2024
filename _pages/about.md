@@ -20,3 +20,5 @@ subtitle:
 
 
 **[Accelerating Machine Learning Force Fields via Tensor Decomposition]({% post_url 2025-07-07-TDN-blog %})**
+
+**[A Short Note of O(3) Frame]({% post_url 2025-07-07-Frame %})**
